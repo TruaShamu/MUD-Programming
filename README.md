@@ -3,4 +3,4 @@
 
 Trying to build a Multi User Dungeon game in C++
 
-See book 'MUD GAME PROGRAMMING' for details
+Referencing the book 'MUD GAME PROGRAMMING' by Ron Penton
